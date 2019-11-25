@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "vuepress": "^1.2.0",
+    "vuepress-theme-reco": "^1.1.1"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-pwa": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.dev.tencent.com:zerolu/blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{573:function(e,t,n){"use strict";n.r(t);var s={name:"vuepress-particles"},a=n(4),i=Object(a.a)(s,(function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("1313123123")])}),[],!1,null,"ad9aa506",null);t.default=i.exports}}]);
